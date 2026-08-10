@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SanX" parent="android:Theme.NoTitleBar">
+        <item name="android:windowBackground">@color/sanx_black</item>
+        <item name="android:statusBarColor">@color/sanx_black</item>
+        <item name="android:navigationBarColor">@color/sanx_black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

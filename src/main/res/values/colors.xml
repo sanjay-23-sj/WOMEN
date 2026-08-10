@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="sanx_black">#0A0A0C</color>
+    <color name="sanx_surface">#16161E</color>
+    <color name="sanx_card">#1E1E28</color>
+    <color name="sanx_border">#2A2A38</color>
+    <color name="sanx_text_primary">#F0F0F5</color>
+    <color name="sanx_text_secondary">#8888A0</color>
+    <color name="sanx_text_disabled">#4A4A5A</color>
+
+    <!-- Status -->
+    <color name="sanx_emergency">#FF4545</color>
+    <color name="sanx_warning">#FF9500</color>
+    <color name="sanx_safe">#00E676</color>
+    <color name="sanx_info">#5B9CF6</color>
+    <color name="sanx_mesh">#C77DFF</color>
+</resources>
