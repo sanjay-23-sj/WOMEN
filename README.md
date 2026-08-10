@@ -159,3 +159,16 @@ The final binary will be outputted to:
 * 🛡️ **Zero Tracking**: No remote metrics, analytical trackers, or crash reporters are integrated.
 * 🛡️ **Military-Grade Local Encryption**: Local files and evidence recordings are encrypted using AES-256 on-device.
 * 🛡️ **No Subscriptions**: All offline, trigger, widget, and WebRTC streaming capabilities are fully unlocked and free.
+
+
+## 📱 Download & Try WOMEN
+
+You can download the current APK from the repository and install it on an Android device for testing.
+
+> ⚠️ This is a development build. Some planned features are still under development.
+
+### Current APK
+
+Go to the repository and download the latest `.apk` file.
+
+Developers are welcome to test the current version, report issues, and contribute improvements.
